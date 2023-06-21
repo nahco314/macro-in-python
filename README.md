@@ -80,7 +80,7 @@ def main():
     print(a)
 ````
 
-## Installation
+## Install
 If you want to install it as a tool (in the second usage), first install [rye](https://rye-up.com/guide/installation/).
 ```commandline
 rye install macro-in-python --git https://github.com/nahco314/macro-in-python.git
@@ -94,7 +94,7 @@ rye add macro-in-python --git https://github.com/nahco314/macro-in-python.git
 pip install git+https://github.com/nahco314/macro-in-python.git
 ```
 
-## Examples
+## Example
 In C++, chmin, for example, can be used as an expression to return a bool indicating whether or not an update has been made.
 
 In Python, chmin is normally written as a statement, so you can't do this, but in Python 3.8 and later, with the introduction of assignment expressions, you can write chmin/chmax to return a bool.
