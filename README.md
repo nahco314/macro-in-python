@@ -1,5 +1,7 @@
 # macro-in-python
 
+[日本語版の `README.md`](https://github.com/nahco314/macro-in-python/blob/master/README.ja.md)
+
 Using Macros in Python.
 
 ## Usage
